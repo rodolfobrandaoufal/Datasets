@@ -147,10 +147,13 @@ Neural_Network y1
 fluidizedbedufs_total.csv
 
 activation: identity
+Neuronios= 1 Seed= 0 Seed_sample 0 MSE teste= 5881.469629533942 R^2 teste= 0.9567231754936538 MSE treino= 9067.157868338678 R^2 treino= 0.9557242961073754
 
-activation: logistic 
+activation: logistic
+Neuronios= 5 Seed= 0 Seed_sample 19 MSE teste= 950.7128263835708 R^2 teste= 0.995182158439446 MSE treino= 1435.1097601041636 R^2 treino= 0.9924127526062178
 
 activation: tanh
+Neuronios= 3 Seed= 1 Seed_sample 19 MSE teste= 1111.9798555868113 R^2 teste= 0.9943649200746308 MSE treino= 1345.7094742139475 R^2 treino= 0.9928854008349322
 
 activation: relu
 
