@@ -12,6 +12,7 @@ Neuronios= 3 Seed= 4 Seed_sample 17 MSE teste= 1016.8450812252166 R^2 teste= 0.9
 
 activation: tanh
 Neuronios= 3 Seed= 14 Seed_sample 17 MSE teste= 1109.6051088416411 R^2 teste= 0.9893487751774198 MSE treino= 1926.9480888215287 R^2 treino= 0.9900405535759116
+
 activation: relu
 Neuronios= 5 Seed= 2 Seed_sample 17 MSE teste= 1388.1428736016783 R^2 teste= 0.9866750596993654 MSE treino= 1075.4519736157524 R^2 treino= 0.9944415179759944
 
@@ -99,36 +100,48 @@ Neural_Network y2
 fluidizedbedufs_p2.csv
 
 activation: identity
+Neuronios= 1 Seed= 0 Seed_sample 14 MSE teste= 0.0051375576166857355 R^2 teste= 0.24251900705175344 MSE treino= 0.009454992097812179 R^2 treino= 0.5142047423270844
 
 activation: logistic 
+Neuronios= 2 Seed= 2 Seed_sample 18 MSE teste= 0.001973916121467039 R^2 teste= 0.8791154110164576 MSE treino= 0.002852190781375443 R^2 treino= 0.8324107426466354
 
 activation: tanh
+Neuronios= 2 Seed= 1 Seed_sample 11 MSE teste= 0.001622432130777403 R^2 teste= 0.8532003107708943 MSE treino= 0.003688858787267352 R^2 treino= 0.7956261024347502
 
 activation: relu
+Neuronios= 8 Seed= 2 Seed_sample 14 MSE teste= 0.0019563519284167587 R^2 teste= 0.7115556628541864 MSE treino= 0.002580956576270726 R^2 treino= 0.8673910615639575
 
 ======================================================================================================================================================================
 Neural_Network y3
 fluidizedbedufs_p2.csv
 
 activation: identity
+Neuronios= 1 Seed= 0 Seed_sample 13 MSE teste= 0.001796890962817111 R^2 teste= 0.40008951179677155 MSE treino= 0.005952567651339774 R^2 treino= 0.49512587962660537
 
 activation: logistic 
+Neuronios= 3 Seed= 0 Seed_sample 8 MSE teste= 0.0009980428790680458 R^2 teste= 0.919042728216966 MSE treino= 0.0020660055516979626 R^2 treino= 0.7829354624484831
 
 activation: tanh
+Neuronios= 3 Seed= 1 Seed_sample 8 MSE teste= 0.0010806477165347947 R^2 teste= 0.9123421521018059 MSE treino= 0.0019038134546102915 R^2 treino= 0.7999761487718628
 
 activation: relu
+Neuronios= 3 Seed= 14 Seed_sample 10 MSE teste= 0.0009479384670387579 R^2 teste= 0.8962370146166604 MSE treino= 0.0018637042397484816 R^2 treino= 0.8186782101153556
 
 ======================================================================================================================================================================
 Neural_Network y4
 fluidizedbedufs_p2.csv
 
 activation: identity
+Neuronios= 1 Seed= 0 Seed_sample 8 MSE teste= 0.003718087573019843 R^2 teste= 0.4626826619681387 MSE treino= 0.009355727497718498 R^2 treino= 0.21522626655532362
 
 activation: logistic 
+Neuronios= 1 Seed= 4 Seed_sample 8 MSE teste= 0.0037128829088658275 R^2 teste= 0.4634348110861096 MSE treino= 0.008111316108139642 R^2 treino= 0.3196095304307439
 
 activation: tanh
+Neuronios= 1 Seed= 0 Seed_sample 11 MSE teste= 0.0037392656455896957 R^2 teste= 0.13488051033765303 MSE treino= 0.007412825973422423 R^2 treino= 0.41261409296959384
 
 activation: relu
+Neuronios= 1 Seed= 1 Seed_sample 15 MSE teste= 0.003590504274264447 R^2 teste= -0.3313718248671975 MSE treino= 0.012905629125285924 R^2 treino= 0.010005741551760816
 
 ======================================================================================================================================================================
 Neural_Network y5
